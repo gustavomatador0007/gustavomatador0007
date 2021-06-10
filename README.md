@@ -1,5 +1,5 @@
 # Sejam bem vindos! 🧐
-## Meu nome é Gustavo sou um programador iniciante, mas me esforçando para seu um bom programador ! 😎😎😎
+## Meu nome é Gustavo sou um programador iniciante, mas me esforço para ser um bom programador ! 😎😎😎
 
 ### Conhecimento em:
 #### JavaScript ✅ ;
