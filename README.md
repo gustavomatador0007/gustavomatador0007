@@ -1,5 +1,5 @@
 # Sejam bem vindos! 🧐
-## Somente um programador iniciante, mas me esforçando para melhorar ! 😎😎😎
+## Apenas um programador iniciante, mas me esforçando para melhorar ! 😎😎😎
 
 ### Conhecimento em:
 #### JavaScript ✅ ;
